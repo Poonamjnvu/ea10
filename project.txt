@@ -1,0 +1,8 @@
+<html>
+    <head>
+        <body bgcolor="ff9999">
+            <h3>Wedding Planner</h3>
+            <img src="1.jpg" width="500" height="600">
+        </body>
+    </head>
+</html>
