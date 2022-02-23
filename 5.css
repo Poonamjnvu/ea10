@@ -1,0 +1,17 @@
+pre{
+    color: chocolate;
+    background-color: blue;
+}
+.test{
+    color: black;
+    background-color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-display: red ;
+}
+#test{
+    color: chartreuse;
+    background-color: blanchedalmond;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font: optional;
+}
