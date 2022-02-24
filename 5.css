@@ -15,3 +15,50 @@ pre{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font: optional;
 }
+.p1{
+    
+   /* padding-top: 50px;
+    padding-right: 20px;
+    padding-bottom: 100px;
+    padding-left: 10px;*/
+    background-color: blue;
+    /*padding:30px 10px 15px 20px; top,right,bottom and left*/ 
+    /*padding: 50px 80px vertical padding and horizontal padding;*/
+    padding: 20px;/*padding all direction*/
+    border: 50px solid green;
+    
+     /*border-style:double;
+      border-top-color:chartreuse;
+     border-bottom-color: crimson;
+     border-left-color: darkgreen;
+     border-right-color: darkslategrey;  */
+     /*border-top-style: inset;
+     border-right-style: dotted;
+     border-bottom-style: ridge;
+     border-left-style: groove;*/
+     /* border-style: solid dotted ridge groove;
+     border-bottom: 50px solid green; */
+     /* float: left;
+     float: right; */
+     /* margin-top: 40px;
+     margin-right: 60px;
+     margin-bottom: 80px;
+     margin-left: 100px; */
+     margin: 70px;
+     /* margin-block-end: 50px;
+     margin-block-start: 100px;
+     margin-inline-end: 70px;
+     margin-inline-start: 30px; */
+     margin-block: 80px;
+     margin-inline: 100px;
+     
+}
+.p2{
+    color: chartreuse;
+    background-color: red;
+    height: 200px;
+    width: 300px;
+    border: 50px solid gray;
+    padding: 30px;
+    margin: 70px;
+}
